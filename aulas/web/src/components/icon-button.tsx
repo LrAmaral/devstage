@@ -10,7 +10,7 @@ export default function IconButton({ className, ...props }: IconButtonProps) {
   return (
     <button
       className={twMerge(
-        'p-6 bg-gray-500 text-blue-500 rounded-md cursor-pointer transition-colors duration-300 hover:bg-blue hover:text-gray-900f',
+        'p-2 bg-gray-500 text-blue-500 rounded-md cursor-pointer transition-colors duration-300 hover:bg-blue hover:text-gray-900f',
         className,
       )}
       {...props}

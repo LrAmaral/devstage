@@ -15,7 +15,7 @@ export default function Stats() {
         <MousePointerClick className="text-purple absolute left-3 top-3" />
       </div>
 
-      <div className="bg-gray-700 border border-gray-600 px-4 py-7 flex flex-col items-center justify-center gap-1">
+      <div className="bg-gray-700 relative border border-gray-600 px-4 py-7 flex flex-col items-center justify-center gap-1">
         <span className="font-heading text-2xl font-semibold text-gray-200 leading-none">
           1042
         </span>
@@ -25,7 +25,7 @@ export default function Stats() {
         <BadgeCheck className="text-purple absolute left-3 top-3" />
       </div>
 
-      <div className="bg-gray-700 border border-gray-600 px-4 py-7 flex flex-col items-center justify-center gap-1">
+      <div className="bg-gray-700 relative border border-gray-600 px-4 py-7 flex flex-col items-center justify-center gap-1">
         <span className="font-heading text-2xl font-semibold text-gray-200 leading-none">
           1042
         </span>

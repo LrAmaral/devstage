@@ -12,7 +12,7 @@ export default function Ranking() {
       </h2>
 
       <div className="space-y-4">
-        <div className="rounded-xl relative bg-gray-700 border border-gray-600 p-6 flex flex-col">
+        <div className="rounded-xl gap-2 relative bg-gray-700 border border-gray-600 p-6 flex flex-col">
           <span className="text-sm text-gray-300 leading-none">
             <span className="font-semibold">1º</span> | Lucas Amaral
           </span>
@@ -25,7 +25,7 @@ export default function Ranking() {
             className="rounded-full absolute top-0 right-8"
           />
         </div>
-        <div className="rounded-xl relative bg-gray-700 border border-gray-600 p-6 flex flex-col">
+        <div className="rounded-xl gap-2 relative bg-gray-700 border border-gray-600 p-6 flex flex-col">
           <span className="text-sm text-gray-300 leading-none">
             <span className="font-semibold">2º</span> | Diego Fernandes
           </span>
@@ -38,7 +38,7 @@ export default function Ranking() {
             className="rounded-full absolute top-0 right-8"
           />
         </div>
-        <div className="rounded-xl relative bg-gray-700 border border-gray-600 p-6 flex flex-col">
+        <div className="rounded-xl gap-2 relative bg-gray-700 border border-gray-600 p-6 flex flex-col">
           <span className="text-sm text-gray-300 leading-none">
             <span className="font-semibold">3º</span> | Mayki Brito
           </span>
